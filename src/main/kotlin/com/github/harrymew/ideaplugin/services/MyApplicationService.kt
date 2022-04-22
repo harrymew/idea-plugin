@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.harrymew.ideaplugin.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.harrymew.ideaplugin.MyBundle
 
 class MyApplicationService {
 
